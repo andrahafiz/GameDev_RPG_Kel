@@ -40,9 +40,9 @@
     "bgm": { "name": "Ship1", "pan": 0, "pitch": 100, "volume": 90 },
     "characterIndex": 0,
     "characterName": "Vehicle",
-    "startMapId": 4,
-    "startX": 23,
-    "startY": 8
+    "startMapId": 1,
+    "startX": 14,
+    "startY": 19
   },
   "currencyUnit": "G",
   "defeatMe": { "name": "Defeat1", "pan": 0, "pitch": 100, "volume": 90 },
@@ -78,9 +78,9 @@
     "bgm": { "name": "Ship2", "pan": 0, "pitch": 100, "volume": 90 },
     "characterIndex": 1,
     "characterName": "Vehicle",
-    "startMapId": 4,
-    "startX": 31,
-    "startY": 13
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
   },
   "skillTypes": ["", "Magic", "Special"],
   "sounds": [
@@ -109,12 +109,12 @@
     { "name": "Item3", "pan": 0, "pitch": 100, "volume": 90 },
     { "name": "Item3", "pan": 0, "pitch": 100, "volume": 90 }
   ],
-  "startMapId": 1,
-  "startX": 12,
-  "startY": 11,
+  "startMapId": 5,
+  "startX": 1,
+  "startY": 6,
   "switches": [
     "",
-    "terbakar",
+    "",
     "",
     "",
     "",
@@ -264,7 +264,7 @@
     "",
     ""
   ],
-  "versionId": 35605945,
+  "versionId": 78130436,
   "victoryMe": { "name": "Victory1", "pan": 0, "pitch": 100, "volume": 90 },
   "weaponTypes": [
     "",
